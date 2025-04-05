@@ -1,36 +1,47 @@
-# M Charan
+# 💸 Monthly Expense Calculator
 
-Welcome to my personal portfolio! Here you will find information about my projects, skills, and experience.
+This is a simple yet powerful **Streamlit web app** that helps users track and manage their monthly expenses based on their income. With an intuitive UI and visual analytics, this tool encourages better financial decisions.
 
-## About Me
+## 🚀 Features
 
-I'm M Charan, a passionate data scientist with a strong background in machine learning and deep learning. I enjoy solving complex problems and have a knack for turning data into actionable insights. My expertise lies in building predictive models, designing efficient algorithms, and implementing real-time data solutions.
+- Input your total monthly salary
+- Add expenses in different categories:
+  - Housing
+  - Transportation
+  - Food
+  - Health
+  - Personal Care
+  - Entertainment
+  - Investment
+  - Miscellaneous
+- Calculates:
+  - Total expenses
+  - Remaining balance
+  - Savings percentage
+- Provides visual alerts based on your savings
+- Interactive **Altair** bar chart for expense visualization
+- Download your expense report as a CSV
+- Clean and responsive design using Streamlit
 
-## Skills
+## 🛠️ Technologies Used
 
 - Python
-- SQL
-- Machine Learning
-- Deep Learning (ANNs, CNNs)
-- Data Visualization (Matplotlib, Seaborn, Plotly)
-- Data Preprocessing and Cleaning
-- Statistical Analysis
+- Streamlit
+- Altair
+- Pandas
+- HTML & CSS (within Streamlit for styling)
 
-## Projects
+## 📸 Screenshots
 
-### Grape Leaf Detection using CNN
-Developed a convolutional neural network (CNN) model to detect diseases in grape leaves. The model helps farmers identify and treat plant diseases early, ensuring better crop health and yield.
+_Add screenshots of the UI here (optional but recommended)_
 
-### Realtime Weather Monitoring using Raspberry Pi and Machine Learning
-Built a real-time weather monitoring system using Raspberry Pi and machine learning algorithms. The system collects weather data, processes it, and provides accurate weather predictions.
+## 🧠 Inspiration
 
-## Education
-
-- BE/Btech in Electronics and Communication Engineering, Sri Venkateshwara College of Engineering, Banglore (2019-2023)
+This project was built to help individuals gain insights into their spending habits and encourage better financial planning using simple tools.
 
 ## Contact
 
-Feel free to reach out to me at charan@example.com or connect with me on LinkedIn and E-mail.
+Feel free to reach out to me at charanmandi970@gmail.com or connect with me on LinkedIn and E-mail.
 
 [Email Me](charanmandi970@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/m-charan-28108a1b6/)
