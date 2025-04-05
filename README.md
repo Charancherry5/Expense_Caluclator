@@ -31,9 +31,6 @@ This is a simple yet powerful **Streamlit web app** that helps users track and m
 - Pandas
 - HTML & CSS (within Streamlit for styling)
 
-## 📸 Screenshots
-
-_Add screenshots of the UI here (optional but recommended)_
 
 ## 🧠 Inspiration
 
